@@ -1,0 +1,1 @@
+(function(){"use strict";fetch("/mission.json",{cache:"no-store"}).then(function(r){if(!r.ok)throw Error();return r.json()}).then(function(d){document.getElementById("mission-text").textContent=d.mission;document.getElementById("mission-category").textContent=d.category.charAt(0).toUpperCase()+d.category.slice(1)}).catch(function(){})})();

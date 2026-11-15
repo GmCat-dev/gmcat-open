@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="t d">
+  <title id="t">Sage placeholder avatar</title><desc id="d">A neutral purple circle with a small open book and star.</desc>
+  <rect width="160" height="160" rx="32" fill="#241833"/><circle cx="80" cy="80" r="58" fill="#8055a5"/>
+  <path d="M42 58c16-4 28 0 38 10v49c-10-10-22-14-38-10zm76 0c-16-4-28 0-38 10v49c10-10 22-14 38-10z" fill="#f4edf9" stroke="#241833" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M80 68v49" stroke="#241833" stroke-width="5"/><path d="m122 35 3 9 9 3-9 3-3 9-3-9-9-3 9-3z" fill="#efbd66"/>
+</svg>
